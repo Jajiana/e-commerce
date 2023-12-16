@@ -6,7 +6,7 @@
             "name": "Cereales",
             "price": 500,
             "brand": "Desayuno",
-            "image": "/fotostienda/product-thumb-14.jpg",
+            "image": "/product-thumb-14.jpg",
             "stock": 10
         },
         {
@@ -14,7 +14,7 @@
             "name": "Sardinas",
             "price": 200,
             "brand": "Para el pancito",
-            "image": "/fotostienda/product-thumb-13.jpg",
+            "image": "/product-thumb-13.jpg",
             "stock": 5
         },
         {
@@ -22,7 +22,7 @@
             "name": "Tecito",
             "price": 299,
             "brand": "Once",
-            "image": "/fotostienda/product-thumb-12.jpg",
+            "image": "/product-thumb-12.jpg",
             "stock": 3
         },
         {
@@ -30,7 +30,7 @@
             "name": "Miel",
             "price": 399,
             "brand": "Dulces",
-            "image": "/fotostienda/product-thumb-11.jpg",
+            "image": "/product-thumb-11.jpg",
             "stock": 1
         }
     ]
